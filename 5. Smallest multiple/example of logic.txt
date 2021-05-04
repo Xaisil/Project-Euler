@@ -1,0 +1,4 @@
+20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1 = all numbers
+xx, 19, xx, 17, xx, xx, xx, 13, xx, 11, xx, x, x, 7, x, 5, x, x, x, x = just primes
+xx, xx, xx, xx, 16, xx, xx, xx, xx, xx, xx, 9, x, x, x, x, x, x, x, x = just sqrt(x) beeing int
+xx, 19, xx, 17, 16, xx, xx, 13, xx, 11, xx, 9, x, 7, x, 5, x, x, x, x = primes and sqrt(x) beeing int
